@@ -1,0 +1,2 @@
+- Prototype built used Axure
+- double click home.html to start
